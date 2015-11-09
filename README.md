@@ -25,9 +25,9 @@
 
 作者介绍：
 
-**Amilia Bellamy-Royds** is a freelance writer specializing in scientific and technical communication. Co-author of the second edition of *SVG Essentials*. she is also an invited expert on the W3C's SVG Working Group and SVG Accessibility Task Force.
+**Amilia Bellamy-Royds**是一个专攻科与和技术交流的自由撰稿人。她是《SVG精髓》第二版的合作作者。她还是W3C的SVG工作小组以及SVG可访问性工作组的受邀请专家。
 
-**Kurt Cagle** was a member of the SVG Working Group. and wrote one of the first SVG books on the market. He's consulted for a number of Fortune 500 media, transportation, and publishing companies, and was an architect with the US National Archives and the Affordable Care Act. Kurt founded Semanitical， LLC in 2015 to develop applications for data visualization, virtualization, and enrichment.
+**Kurt Cagle** 是SVG工作组的成员，写了市场上最早的SVG书籍之一。他为很多“财富500强”媒体、交通公司和出版公司担任顾问，是国家档案管以及可支付医疗法案的缔造者。2015年，Kurt成立了Semanitical公司，以发展数据可视化、虚拟化以及富集化的应用程序。
 
 ------------------
 
