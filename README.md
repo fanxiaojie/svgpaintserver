@@ -3,7 +3,6 @@
 
 ![](img/cover.jpg?raw=true)
 
-![](img/mark1.jpg?raw=true)【加州出现UFO？美军方称是进行导弹试验】美国加州至亚利桑那州地区的夜空出现神秘亮光的消息在社交媒体不胫而走。五角大楼称，这是海军导弹飞行试验引起的现象。有关方面在海上进行海军战略系统项目三叉戟II（D5）导弹飞行试验。</td></tbody></table>
 
 作为一种矢量图形格式，SVG利用精确定义的几何形状建立图像。但是SVG并不只对简单的技术绘图有用。SVG图形可以带阴影、带纹理、创建自部分透明叠加层、甚至用摄影图像填充。
 
@@ -18,4 +17,20 @@
 - 理解并避免给描边和文字涂色时的怪癖和陷阱。
 - 变动元素用到的填充和描边或者涂色服务。
 
+本书各章节涵盖了关于颜色关键词和句法、涂色服务元素、特性标记和样式属性。
 
+> “涂色已经今非昔比！深入讲解SVG渐变的图案的精彩新功能！”
+> 
+> ——**Erik Dahlstrom** ，SVG工作小组联合主席
+
+------------------
+
+**Amilia Bellamy-Royds** is a freelance writer specializing in scientific and technical communication. Co-author of the second edition of *SVG Essentials*. she is also an invited expert on the W3C's SVG Working Group and SVG Accessibility Task Force.
+
+**Kurt Cagle** was a member of the SVG Working Group. and wrote one of the first SVG books on the market. He's consulted for a number of Fortune 500 media, transportation, and publishing companies, and was an architect with the US National Archives and the Affordable Care Act. Kurt founded Semanitical， LLC in 2015 to develop applications for data visualization, virtualization, and enrichment.
+
+------------------
+
+[进入目录](toc.md)
+
+[前言](0.md)
