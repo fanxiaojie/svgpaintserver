@@ -3,6 +3,10 @@
 
 ![](img/cover.jpg?raw=true)
 
+
+<img style="float:left; display: block;border:6px solid #999;" src="http://akamaicovers.oreilly.com/images/0636920043065/cat.gif" />
+
+
 作为一种矢量图形格式，SVG利用精确定义的几何形状建立图像。但是SVG并不只对简单的技术绘图有用。SVG图形可以带阴影、带纹理、创建自部分透明叠加层、甚至用摄影图像填充。
 
 本书深入讲解SVG的一个特殊方面：涂色。在计算机中你不能使用油墨或水彩，但是计算机发出的图形化指令可以变出细致的、多彩多姿的图像。一旦你知道如何利用SVG提供的所有功能，这种创作实现能力是无止境的。
