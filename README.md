@@ -3,9 +3,7 @@
 
 ![](img/cover.jpg?raw=true)
 
-
-<img style="float:left; display: block;border:6px solid #999;" src="http://akamaicovers.oreilly.com/images/0636920043065/cat.gif" />
-
+<table><tbody><td>![](img/mark1.svg)</td><td>【加州出现UFO？美军方称是进行导弹试验】美国加州至亚利桑那州地区的夜空出现神秘亮光的消息在社交媒体不胫而走。五角大楼称，这是海军导弹飞行试验引起的现象。有关方面在海上进行海军战略系统项目三叉戟II（D5）导弹飞行试验。</td></tbody></table>
 
 作为一种矢量图形格式，SVG利用精确定义的几何形状建立图像。但是SVG并不只对简单的技术绘图有用。SVG图形可以带阴影、带纹理、创建自部分透明叠加层、甚至用摄影图像填充。
 
