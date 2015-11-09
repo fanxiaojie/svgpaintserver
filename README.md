@@ -23,7 +23,7 @@
 > 
 > ——**Erik Dahlstrom** ，SVG工作小组联合主席
 
-------------------
+作者介绍：
 
 **Amilia Bellamy-Royds** is a freelance writer specializing in scientific and technical communication. Co-author of the second edition of *SVG Essentials*. she is also an invited expert on the W3C's SVG Working Group and SVG Accessibility Task Force.
 
